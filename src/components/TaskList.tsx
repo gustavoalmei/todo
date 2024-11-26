@@ -1,4 +1,3 @@
-import React from 'react'
 import Style from "./TaskList.module.css"
 
 import { ITask } from '../interfaces/Task'
