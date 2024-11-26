@@ -1,0 +1,9 @@
+.main{
+  min-height: calc(100vh - 333px);
+  text-align: center;
+  padding: 2em;
+}
+
+.main h2{
+  margin-bottom: 0.8em;
+}
